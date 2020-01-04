@@ -3,6 +3,8 @@ JS in HTML
 in the js add an event listener 
 document.getElementById( -id to use in the UI- ).addEventListener('click', nameofJSfunction);
 
+click edit to read the html template
+
 HTML TEMPLATE FOR UI Calc Area 
 
 <div class="container">
